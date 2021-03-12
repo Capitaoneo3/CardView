@@ -3,7 +3,7 @@
   <img src="imagens/android_logo_PNG27.png" alt="Android Logo" width="120">
 <br>
 <br>
-Fragments
+CardView
 </h1>
 
 <p align="center">Description</p>
